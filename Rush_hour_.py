@@ -4,7 +4,7 @@ import time
 pygame.init()
 
 #var
-
+# Test
 display_width = 800
 display_height = 600
 # Ok - first you calculate a few things (Aspect Ratio)
